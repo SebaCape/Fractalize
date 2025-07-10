@@ -3,6 +3,8 @@
 An interactive Mandelbrot set visualizer built with Python and Streamlit.
 Explore fractal geometry by zooming and panning in real-time with adjustable rendering settings.
 
+<img src='https://i.imgur.com/6b6OwUl.gif' title='Video Demo' width='' alt='Video Demo' />
+
 ## Features
 - Compute and render Mandelbrot fractal with customizable bounds
 - Interactive sliders for zoom level and viewport center (X, Y)
