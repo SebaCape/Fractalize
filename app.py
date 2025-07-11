@@ -9,8 +9,8 @@ st.title("Mandelbrot Set Exploration")
 #Sidebar Sliders
 st.sidebar.header("Fractal Settings")
 zoom = st.sidebar.slider("Zoom", 0.5, 10.0, 1.0, 0.1)
-center_x = st.sidebar.slider("Horizontal View", -2.0, 2.0, 0.0, 0.01)
-center_y = st.sidebar.slider("Vertical View", -2.0, 2.0, 0.0, 0.01)
+center_x = st.sidebar.slider("Horizontal View", -1.0, 1.0, 0.0, 0.01)
+center_y = st.sidebar.slider("Vertical View", -1.0, 1.0, 0.0, 0.01)
 
 #Constant Values
 width = 600
