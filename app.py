@@ -2,6 +2,7 @@ import streamlit as st
 from fractal.mandelbrot import compute_mandelbrot
 from fractal.rendering import render_image
 
+
 st.set_page_config(layout="wide")
 st.title("Mandelbrot Set Exploration")
 
